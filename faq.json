@@ -492,7 +492,7 @@
   {
     "section": {
       "en": "Management",
-      "ru": "Management",
+      "ru": "Управление",
       "de": "Management",
       "es": "Management",
       "fr": "Management",
@@ -812,7 +812,7 @@
   {
     "section": {
       "en": "Balance",
-      "ru": "Balance",
+      "ru": "Баланс",
       "de": "Balance",
       "es": "Balance",
       "fr": "Balance",
@@ -1200,7 +1200,7 @@
   {
     "section": {
       "en": "Security",
-      "ru": "Security",
+      "ru": "Безопасность",
       "de": "Security",
       "es": "Security",
       "fr": "Security",
@@ -1486,7 +1486,7 @@
   {
     "section": {
       "en": "Transactions",
-      "ru": "Transactions",
+      "ru": "Транзакции",
       "de": "Transactions",
       "es": "Transactions",
       "fr": "Transactions",
@@ -1772,7 +1772,7 @@
   {
     "section": {
       "en": "Bitcoin",
-      "ru": "Bitcoin",
+      "ru": "Биткойн",
       "de": "Bitcoin",
       "es": "Bitcoin",
       "fr": "Bitcoin",
@@ -3038,7 +3038,7 @@
   {
     "section": {
       "en": "Privacy",
-      "ru": "Privacy",
+      "ru": "Конфиденциальность",
       "de": "Privacy",
       "es": "Privacy",
       "fr": "Privacy",
@@ -3291,7 +3291,7 @@
   {
     "section": {
       "en": "DEXes/Swaps",
-      "ru": "DEXes/Swaps",
+      "ru": "DEX/свопы",
       "de": "DEXes/Swaps",
       "es": "DEXes/Swaps",
       "fr": "DEXes/Swaps",
