@@ -507,7 +507,7 @@
           "markdown": "faq/en/management/what-are-private-keys-mnemonic-phrase-wallet-seed.md"
         },
         "ru": {
-          "title": "Что такое закрытые ключи?",
+          "title": "What are private keys?",
           "markdown": "faq/ru/management/what-are-private-keys-mnemonic-phrase-wallet-seed.md"
         },
         "de": {
@@ -541,7 +541,7 @@
           "markdown": "faq/en/management/how-to-create-wallet.md"
         },
         "ru": {
-          "title": "Как создать кошелек (кошельки)?",
+          "title": "How do you create a wallet(s)?",
           "markdown": "faq/ru/management/how-to-create-wallet.md"
         },
         "de": {
@@ -575,7 +575,7 @@
           "markdown": "faq/en/management/how-to-backup-wallet.md"
         },
         "ru": {
-          "title": "Как сделать резервную копию кошелька (кошельков)?",
+          "title": "How do you backup a wallet(s)?",
           "markdown": "faq/ru/management/how-to-backup-wallet.md"
         },
         "de": {
@@ -609,7 +609,7 @@
           "markdown": "faq/en/management/how-to-restore-wallet.md"
         },
         "ru": {
-          "title": "Как восстановить кошелек (кошельки)?",
+          "title": "How do you restore a wallet(s)?",
           "markdown": "faq/ru/management/how-to-restore-wallet.md"
         },
         "de": {
@@ -643,7 +643,7 @@
           "markdown": "faq/en/management/how-to-activate-cryptocurrency-for-the-wallet.md"
         },
         "ru": {
-          "title": "Как добавить монету в кошелек?",
+          "title": "How to add coin to the wallet?",
           "markdown": "faq/ru/management/how-to-activate-cryptocurrency-for-the-wallet.md"
         },
         "de": {
@@ -677,7 +677,7 @@
           "markdown": "faq/en/management/how-to-manage-multiple-wallets.md"
         },
         "ru": {
-          "title": "Как управлять несколькими кошельками?",
+          "title": "How do you manage multiple wallets?",
           "markdown": "faq/ru/management/how-to-manage-multiple-wallets.md"
         },
         "de": {
@@ -711,7 +711,7 @@
           "markdown": "faq/en/management/how-to-delete-the-wallet.md"
         },
         "ru": {
-          "title": "Как удалить (отвязать) кошелек?",
+          "title": "How do you delete (unlink) the wallet?",
           "markdown": "faq/ru/management/how-to-delete-the-wallet.md"
         },
         "de": {
@@ -745,7 +745,7 @@
           "markdown": "faq/en/management/how-to-send-receive-cryptocurrency-from-to-wallet.md"
         },
         "ru": {
-          "title": "Как вы отправляете/получаете криптовалюту?",
+          "title": "How do you send/receive cryptocurrency to/from the wallet?",
           "markdown": "faq/ru/management/how-to-send-receive-cryptocurrency-from-to-wallet.md"
         },
         "de": {
@@ -779,7 +779,7 @@
           "markdown": "faq/en/management/how-to-buy-sell-cryptocurrency-for-fiat-in-royalex.md"
         },
         "ru": {
-          "title": "Как вы покупаете/продаете криптовалюту?",
+          "title": "How do you buy/sell cryptocurrency for fiat in ROYALEX?",
           "markdown": "faq/ru/management/how-to-buy-sell-cryptocurrency-for-fiat-in-royalex.md"
         },
         "de": {
@@ -827,7 +827,7 @@
           "markdown": "faq/en/balance/how-to-hide-show-wallet-balance.md"
         },
         "ru": {
-          "title": "Как можно скрыть или отобразить баланс кошелька?",
+          "title": "How do you hide/show the wallet balance?",
           "markdown": "faq/ru/balance/how-to-hide-show-wallet-balance.md"
         },
         "de": {
@@ -861,7 +861,7 @@
           "markdown": "faq/en/balance/why-balance-appears-dimmed.md"
         },
         "ru": {
-          "title": "Почему баланс кошелька выглядит затемненным?",
+          "title": "Why does the balance appear dimmed?",
           "markdown": "faq/ru/balance/why-balance-appears-dimmed.md"
         },
         "de": {
@@ -895,7 +895,7 @@
           "markdown": "faq/en/balance/what-syncing-status-on-a-coin-means.md"
         },
         "ru": {
-          "title": "Что означает статус 'синхронизация' на монете?",
+          "title": "What does the 'syncing' status on a coin mean?",
           "markdown": "faq/ru/balance/what-syncing-status-on-a-coin-means.md"
         },
         "de": {
@@ -929,7 +929,7 @@
           "markdown": "faq/en/balance/what-a-triangle-alert-icon-on-a-coin-means.md"
         },
         "ru": {
-          "title": "О чём говорит появление треугольного символа на монете?",
+          "title": "What does a triangle alert icon on a coin mean?",
           "markdown": "faq/ru/balance/what-a-triangle-alert-icon-on-a-coin-means.md"
         },
         "de": {
@@ -963,7 +963,7 @@
           "markdown": "faq/en/balance/why-send-button-for-the-coin-appears-disabled.md"
         },
         "ru": {
-          "title": "Почему кнопка 'Отправить' отображается неактивной?",
+          "title": "Why does the 'send' button for the coin appear disabled?",
           "markdown": "faq/ru/balance/why-send-button-for-the-coin-appears-disabled.md"
         },
         "de": {
@@ -997,7 +997,7 @@
           "markdown": "faq/en/balance/why-receive-button-for-the-coin-appears-disabled.md"
         },
         "ru": {
-          "title": "По каким причинам кнопка 'Получить' отображается неактивной?",
+          "title": "Why does the 'receive' button for the coin appear disabled?",
           "markdown": "faq/ru/balance/why-receive-button-for-the-coin-appears-disabled.md"
         },
         "de": {
@@ -1031,7 +1031,7 @@
           "markdown": "faq/en/balance/why-wallet-balance-is-showing-incorrect-amount.md"
         },
         "ru": {
-          "title": "Почему баланс кошелька показывает неверную сумму?",
+          "title": "Why is the wallet balance showing an incorrect amount?",
           "markdown": "faq/ru/balance/why-wallet-balance-is-showing-incorrect-amount.md"
         },
         "de": {
@@ -1065,7 +1065,7 @@
           "markdown": "faq/en/balance/what-the-lock-sign-next-to-coin-balance-means.md"
         },
         "ru": {
-          "title": "Что означает знак замка на балансе монеты?",
+          "title": "What does the lock sign next to the coin balance mean?",
           "markdown": "faq/ru/balance/what-the-lock-sign-next-to-coin-balance-means.md"
         },
         "de": {
@@ -1099,7 +1099,7 @@
           "markdown": "faq/en/balance/how-to-change-base-currency-for-the-wallet.md"
         },
         "ru": {
-          "title": "Как поменять основную валюту?",
+          "title": "How do you change the base currency for the wallet?",
           "markdown": "faq/ru/balance/how-to-change-base-currency-for-the-wallet.md"
         },
         "de": {
@@ -1133,7 +1133,7 @@
           "markdown": "faq/en/balance/why-there-are-random-token-balances-appearing-in-my-wallet.md"
         },
         "ru": {
-          "title": "Почему в кошельке появляются свободные остатки токенов?",
+          "title": "Why are there random token balances appearing in my wallet?",
           "markdown": "faq/ru/balance/why-there-are-random-token-balances-appearing-in-my-wallet.md"
         },
         "de": {
@@ -1167,7 +1167,7 @@
           "markdown": "faq/en/balance/why-the-exchange-rate-dor-the-token-not-shown.md"
         },
         "ru": {
-          "title": "Почему не отображается курс обмена токена?",
+          "title": "Why is the exchange rate for the token not shown?",
           "markdown": "faq/ru/balance/why-the-exchange-rate-dor-the-token-not-shown.md"
         },
         "de": {
@@ -1215,7 +1215,7 @@
           "markdown": "faq/en/security/how-royalex-keeps-funds-secure.md"
         },
         "ru": {
-          "title": "Как ROYALEX гарантирует безопасность средств?",
+          "title": "How does ROYALEX keep funds secure?",
           "markdown": "faq/ru/security/how-royalex-keeps-funds-secure.md"
         },
         "de": {
@@ -1249,7 +1249,7 @@
           "markdown": "faq/en/security/is-royalex-less-secure-than-hardware-wallets.md"
         },
         "ru": {
-          "title": "Считается ли ROYALEX менее безопасным, чем программные кошельки?",
+          "title": "Is ROYALEX safer than a hardware wallet?",
           "markdown": "faq/ru/security/is-royalex-less-secure-than-hardware-wallets.md"
         },
         "de": {
@@ -1283,7 +1283,7 @@
           "markdown": "faq/en/security/why-to-set-an-unlock-code-for-the-wallet-app.md"
         },
         "ru": {
-          "title": "Почему необходимо устанавливать код разблокировки для приложения кошелька?",
+          "title": "Why should an unlock code be set for the wallet app?",
           "markdown": "faq/ru/security/why-to-set-an-unlock-code-for-the-wallet-app.md"
         },
         "de": {
@@ -1317,7 +1317,7 @@
           "markdown": "faq/en/security/is-it-possible-to-regain-access-to-the-wallet-if-the-private-key-is-lost.md"
         },
         "ru": {
-          "title": "Как получить доступ к кошельку, если его закрытый ключ потерян?",
+          "title": "How to access wallet if private key is lost?",
           "markdown": "faq/ru/security/is-it-possible-to-regain-access-to-the-wallet-if-the-private-key-is-lost.md"
         },
         "de": {
@@ -1351,7 +1351,7 @@
           "markdown": "faq/en/security/what-is-mnemonic-phrase.md"
         },
         "ru": {
-          "title": "Что такое мнемоническая фраза?",
+          "title": "What is a mnemonic phrase?",
           "markdown": "faq/ru/security/what-is-mnemonic-phrase.md"
         },
         "de": {
@@ -1385,7 +1385,7 @@
           "markdown": "faq/en/security/what-is-mnemonic-passphrase.md"
         },
         "ru": {
-          "title": "Что такое мнемоническая парольная фраза?",
+          "title": "What is a mnemonic passphrase?",
           "markdown": "faq/ru/security/what-is-mnemonic-passphrase.md"
         },
         "de": {
@@ -1419,7 +1419,7 @@
           "markdown": "faq/en/security/how-to-use-mnemonic-passphrase-to-manage-multiple-wallets.md"
         },
         "ru": {
-          "title": "Как использовать мнемоническую ключевую фразу?",
+          "title": "How do you use a mnemonic passphrase to manage multiple wallets?",
           "markdown": "faq/ru/security/how-to-use-mnemonic-passphrase-to-manage-multiple-wallets.md"
         },
         "de": {
@@ -1453,7 +1453,7 @@
           "markdown": "faq/en/security/what-steps-to-take-if-lost-my-phone.md"
         },
         "ru": {
-          "title": "Какие действия я должен предпринять, если я потерял свой телефон?",
+          "title": "What steps should I to take if I lose my phone?",
           "markdown": "faq/ru/security/what-steps-to-take-if-lost-my-phone.md"
         },
         "de": {
@@ -1501,7 +1501,7 @@
           "markdown": "faq/en/transactions/what-are-transactions-fee.md"
         },
         "ru": {
-          "title": "Что представляет собой комиссия за транзакцию?",
+          "title": "What are transaction fees?",
           "markdown": "faq/ru/transactions/what-are-transactions-fee.md"
         },
         "de": {
@@ -1535,7 +1535,7 @@
           "markdown": "faq/en/transactions/why-are-transaction-fees-for-some-cryptocurrencies-are-so-high.md"
         },
         "ru": {
-          "title": "Почему комиссии за транзакции для некоторых криптовалют такие высокие?",
+          "title": "Why are transaction fees for some cryptocurrencies so high?",
           "markdown": "faq/ru/transactions/why-are-transaction-fees-for-some-cryptocurrencies-are-so-high.md"
         },
         "de": {
@@ -1569,7 +1569,7 @@
           "markdown": "faq/en/transactions/how-royalex-calculates-transaction-fees.md"
         },
         "ru": {
-          "title": "Как ROYALEX рассчитывает комиссию за транзакции?",
+          "title": "How does ROYALEX calculate transaction fees?",
           "markdown": "faq/ru/transactions/how-royalex-calculates-transaction-fees.md"
         },
         "de": {
@@ -1603,7 +1603,7 @@
           "markdown": "faq/en/transactions/does-royalex-charge-fees-for-sending-transactions.md"
         },
         "ru": {
-          "title": "Взимает ли ROYALEX комиссию за отправку транзакций?",
+          "title": "Does ROYALEX charge fees for sending transactions?",
           "markdown": "faq/ru/transactions/does-royalex-charge-fees-for-sending-transactions.md"
         },
         "de": {
@@ -1637,7 +1637,7 @@
           "markdown": "faq/en/transactions/what-happens-if-transaction-sent-to-the-wrong-address.md"
         },
         "ru": {
-          "title": "Можно ли отменить транзакцию?",
+          "title": "Can a transaction be cancelled?",
           "markdown": "faq/ru/transactions/what-happens-if-transaction-sent-to-the-wrong-address.md"
         },
         "de": {
@@ -1671,7 +1671,7 @@
           "markdown": "faq/en/transactions/can-a-user-send-transaction-to-self.md"
         },
         "ru": {
-          "title": "Может ли пользователь отправить транзакцию самому себе?",
+          "title": "Can a user send a transaction to themselves?",
           "markdown": "faq/ru/transactions/can-a-user-send-transaction-to-self.md"
         },
         "de": {
@@ -1701,11 +1701,11 @@
       },
       {
         "en": {
-          "title": "Is it safe to share a payment address with others?",
+          "title": "Can a user send a transaction to themselves?",
           "markdown": "faq/en/transactions/is-it-safe-to-share-payment-address-with-others.md"
         },
         "ru": {
-          "title": "Безопасно ли сообщать платежный адрес другим?",
+          "title": "Can a user send a transaction to themselves?",
           "markdown": "faq/ru/transactions/is-it-safe-to-share-payment-address-with-others.md"
         },
         "de": {
@@ -1739,7 +1739,7 @@
           "markdown": "faq/en/transactions/why-transaction-value-shown-incorrectly-in-recent-transaction.md"
         },
         "ru": {
-          "title": "Почему стоимость сделки в последней транзакции отображается неверно?",
+          "title": "Why is a transaction value shown incorrectly in a recent transaction?",
           "markdown": "faq/ru/transactions/why-transaction-value-shown-incorrectly-in-recent-transaction.md"
         },
         "de": {
@@ -1787,8 +1787,7 @@
           "markdown": "faq/en/bitcoin/how-to-send-bitcoin-transaction.md"
         },
         "ru": {
-          "title": "Как отправить транзакцию Bitcoin?
-          ",
+          "title": "How do you send a Bitcoin transaction?",
           "markdown": "faq/ru/bitcoin/how-to-send-bitcoin-transaction.md"
         },
         "de": {
@@ -1822,7 +1821,7 @@
           "markdown": "faq/en/bitcoin/how-long-does-it-take-for-a-bitcoin-transaction-to-complete.md"
         },
         "ru": {
-          "title": "Сколько времени занимает транзакция Bitcoin ?",
+          "title": "How long does it take for a Bitcoin transaction to complete?",
           "markdown": "faq/ru/bitcoin/how-long-does-it-take-for-a-bitcoin-transaction-to-complete.md"
         },
         "de": {
@@ -1856,7 +1855,7 @@
           "markdown": "faq/en/bitcoin/how-royalex-recommends-transaction-fee-for-bitcoin.md"
         },
         "ru": {
-          "title": "Как вычисляется комиссия за транзакцию Bitcoin?",
+          "title": "How does ROYALEX recommend the transaction fee for Bitcoin?",
           "markdown": "faq/ru/bitcoin/how-royalex-recommends-transaction-fee-for-bitcoin.md"
         },
         "de": {
@@ -1890,7 +1889,7 @@
           "markdown": "faq/en/bitcoin/when-a-bitcoin-transaction-considered-final-and-irreversible.md"
         },
         "ru": {
-          "title": "Когда транзакция Bitcoin считается окончательной и невозвратной?",
+          "title": "When is a Bitcoin transaction considered final and irreversible?",
           "markdown": "faq/ru/bitcoin/when-a-bitcoin-transaction-considered-final-and-irreversible.md"
         },
         "de": {
@@ -1924,7 +1923,7 @@
           "markdown": "faq/en/bitcoin/how-to-monitor-status-of-incoming-outgoing-bitcoin-transaction.md"
         },
         "ru": {
-          "title": "Как контролировать статус входящих/исходящих транзакций Bitcoin?",
+          "title": "How can you monitor the status of incoming/outgoing Bitcoin transactions?",
           "markdown": "faq/ru/bitcoin/how-to-monitor-status-of-incoming-outgoing-bitcoin-transaction.md"
         },
         "de": {
@@ -1958,7 +1957,7 @@
           "markdown": "faq/en/bitcoin/how-to-cancel-a-bitcoin-transaction.md"
         },
         "ru": {
-          "title": "Как отменить транзакцию Bitcoin?",
+          "title": "How do you cancel a Bitcoin transaction?",
           "markdown": "faq/ru/bitcoin/how-to-cancel-a-bitcoin-transaction.md"
         },
         "de": {
@@ -1992,7 +1991,7 @@
           "markdown": "faq/en/bitcoin/how-to-resend-a-failed-bitcoin-transaction.md"
         },
         "ru": {
-          "title": "Как повторно отправить неудачную транзакцию Bitcoin?",
+          "title": "How do you resend a failed Bitcoin transaction?",
           "markdown": "faq/ru/bitcoin/how-to-resend-a-failed-bitcoin-transaction.md"
         },
         "de": {
@@ -2026,7 +2025,7 @@
           "markdown": "faq/en/bitcoin/why-bitcoin-transaction-stays-pending.md"
         },
         "ru": {
-          "title": "Почему транзакция Bitcoin находится в ожидании?",
+          "title": "Why does the Bitcoin transaction stay pending?",
           "markdown": "faq/ru/bitcoin/why-bitcoin-transaction-stays-pending.md"
         },
         "de": {
@@ -2060,7 +2059,7 @@
           "markdown": "faq/en/bitcoin/why-bitcoin-balance-did-not-increase-after-receiving-payment.md"
         },
         "ru": {
-          "title": "Почему баланс Bitcoin не пополнился после получения платежа?",
+          "title": "Why did the Bitcoin balance not increase after receiving payment?",
           "markdown": "faq/ru/bitcoin/why-bitcoin-balance-did-not-increase-after-receiving-payment.md"
         },
         "de": {
@@ -2094,7 +2093,7 @@
           "markdown": "faq/en/bitcoin/why-can-not-send-bitcoins-that-were-just-received.md"
         },
         "ru": {
-          "title": "Почему я не могу отправить только что полученные Bitcoins?",
+          "title": "Why can't I send Bitcoins that were just received?",
           "markdown": "faq/ru/bitcoin/why-can-not-send-bitcoins-that-were-just-received.md"
         },
         "de": {
@@ -2128,7 +2127,7 @@
           "markdown": "faq/en/bitcoin/what-do-bip44-bip49-bip84-mean-in-bitcoin.md"
         },
         "ru": {
-          "title": "Что означают BIP44 / BIP49 / BIP84 в Bitcoin?",
+          "title": "What do BIP 44/49/84 mean in Bitcoin?",
           "markdown": "faq/ru/bitcoin/what-do-bip44-bip49-bip84-mean-in-bitcoin.md"
         },
         "de": {
@@ -2162,7 +2161,7 @@
           "markdown": "faq/en/bitcoin/why-bitcoin-payment-adderess-keeps-changing.md"
         },
         "ru": {
-          "title": "Почему адрес для оплаты Bitcoin постоянно меняется?",
+          "title": "Why does the Bitcoin payment address keep changing?",
           "markdown": "faq/ru/bitcoin/why-bitcoin-payment-adderess-keeps-changing.md"
         },
         "de": {
@@ -2192,11 +2191,11 @@
       },
       {
         "en": {
-          "title": "Is it safe to share Bitcoin payment address with others?",
+          "title": "Why does the Bitcoin payment address keeps changing?",
           "markdown": "faq/en/bitcoin/is-is-safe-to-share-bitcoin-payment-address-with-others.md"
         },
         "ru": {
-          "title": "Безопасно ли сообщать другим платежный адрес Bitcoin?",
+          "title": "Why does the Bitcoin payment address keeps changing?",
           "markdown": "faq/ru/bitcoin/is-is-safe-to-share-bitcoin-payment-address-with-others.md"
         },
         "de": {
@@ -2230,7 +2229,7 @@
           "markdown": "faq/en/bitcoin/how-to-send-bitcoin-transactions-that-can-not-be-spent-until-certain-date.md"
         },
         "ru": {
-          "title": "Как отправить транзакции Bitcoin, которые не могут быть потрачены до определенной даты?",
+          "title": "How can you send Bitcoin transactions that can't be spent until a certain date?",
           "markdown": "faq/ru/bitcoin/how-to-send-bitcoin-transactions-that-can-not-be-spent-until-certain-date.md"
         },
         "de": {
@@ -2278,7 +2277,7 @@
           "markdown": "faq/en/ethereum/what-is-an-ethereum-smart-contract.md"
         },
         "ru": {
-          "title": "Что такое смарт-контракт Ethereum?",
+          "title": "What is an Ethereum Smart Contract?",
           "markdown": "faq/ru/ethereum/what-is-an-ethereum-smart-contract.md"
         },
         "de": {
@@ -2312,7 +2311,7 @@
           "markdown": "faq/en/ethereum/how-to-send-ethereum-transaction.md"
         },
         "ru": {
-          "title": "Как отправить транзакцию в Ethereum",
+          "title": "How to send Ethereum transaction?",
           "markdown": "faq/ru/ethereum/how-to-send-ethereum-transaction.md"
         },
         "de": {
@@ -2346,7 +2345,7 @@
           "markdown": "faq/en/ethereum/how-ethereum-transactions-are-different-from-bitcoin.md"
         },
         "ru": {
-          "title": "Чем транзакции в Ethereum отличаются от транзакций в Bitcoin?",
+          "title": "How Ethereum transfers differ from Bitcoin?",
           "markdown": "faq/ru/ethereum/how-ethereum-transactions-are-different-from-bitcoin.md"
         },
         "de": {
@@ -2380,7 +2379,7 @@
           "markdown": "faq/en/ethereum/how-long-does-it-take-for-ethereum-transaction-to-complete.md"
         },
         "ru": {
-          "title": "Сколько времени требуется для завершения транзакции в Ethereum?",
+          "title": "How long Ethereum transaction takes?",
           "markdown": "faq/ru/ethereum/how-long-does-it-take-for-ethereum-transaction-to-complete.md"
         },
         "de": {
@@ -2414,7 +2413,7 @@
           "markdown": "faq/en/ethereum/how-royalex-recommends-transaction-fee-for-ethereum.md"
         },
         "ru": {
-          "title": "Какие правила ROYALEX использует для рекомендации комиссии за транзакции с Ethereum?",
+          "title": "How Ethereum fees are calculated?",
           "markdown": "faq/ru/ethereum/how-royalex-recommends-transaction-fee-for-ethereum.md"
         },
         "de": {
@@ -2448,7 +2447,7 @@
           "markdown": "faq/en/ethereum/why-ethereum-transactions-are-so-expensive.md"
         },
         "ru": {
-          "title": "Почему сделки в Ethereum такие дорогие?",
+          "title": "Why Ethereum fees are so high?",
           "markdown": "faq/ru/ethereum/why-ethereum-transactions-are-so-expensive.md"
         },
         "de": {
@@ -2482,7 +2481,7 @@
           "markdown": "faq/en/ethereum/what-are-gas-gasprice-gaslimit.md"
         },
         "ru": {
-          "title": "Что такое газ, цена на газ и лимит на газ?",
+          "title": "What is gas price and gas limit?",
           "markdown": "faq/ru/ethereum/what-are-gas-gasprice-gaslimit.md"
         },
         "de": {
@@ -2516,7 +2515,7 @@
           "markdown": "faq/en/ethereum/why-eth-needed-to-send-erc20-token.md"
         },
         "ru": {
-          "title": "Почему для отправки токена ERC20 требуется ETH?",
+          "title": "Why ETH needed to send tokens?",
           "markdown": "faq/ru/ethereum/why-eth-needed-to-send-erc20-token.md"
         },
         "de": {
@@ -2550,7 +2549,7 @@
           "markdown": "faq/en/ethereum/when-an-ethereum-transaction-considered-final-irreversible.md"
         },
         "ru": {
-          "title": "Когда транзакция Ethereum считается окончательной и невозвратной?",
+          "title": "When Ethereum transaction considered final?",
           "markdown": "faq/ru/ethereum/when-an-ethereum-transaction-considered-final-irreversible.md"
         },
         "de": {
@@ -2584,7 +2583,7 @@
           "markdown": "faq/en/ethereum/how-to-monitor-status-of-an-ethereum-transaction.md"
         },
         "ru": {
-          "title": "Как отслеживать статус транзакции Ethereum?",
+          "title": "How to monitor Ethereum transaction?",
           "markdown": "faq/ru/ethereum/how-to-monitor-status-of-an-ethereum-transaction.md"
         },
         "de": {
@@ -2618,7 +2617,7 @@
           "markdown": "faq/en/ethereum/how-to-cancel-replace-an-ethereum-transaction.md"
         },
         "ru": {
-          "title": "Как отменить / изменить транзакцию в Ethereum?",
+          "title": "How to cancel Ethereum transaction?",
           "markdown": "faq/ru/ethereum/how-to-cancel-replace-an-ethereum-transaction.md"
         },
         "de": {
@@ -2652,7 +2651,7 @@
           "markdown": "faq/en/ethereum/why-failed-transactions-consume-transaction-fees.md"
         },
         "ru": {
-          "title": "Почему неудачные транзакции требуют платы за транзакции",
+          "title": "Why failed transactions consume fees?",
           "markdown": "faq/ru/ethereum/why-failed-transactions-consume-transaction-fees.md"
         },
         "de": {
@@ -2686,7 +2685,7 @@
           "markdown": "faq/en/ethereum/why-ethereum-transaction-stays-pending.md"
         },
         "ru": {
-          "title": "Почему транзакция Ethereum остается в ожидании?",
+          "title": "Why Ethereum transaction stays pending?",
           "markdown": "faq/ru/ethereum/why-ethereum-transaction-stays-pending.md"
         },
         "de": {
@@ -2720,7 +2719,7 @@
           "markdown": "faq/en/ethereum/when-ethereum-transaction-can-fail.md"
         },
         "ru": {
-          "title": "Почему транзакция Ethereum может быть неудачной?",
+          "title": "When Ethereum transaction can fail?",
           "markdown": "faq/ru/ethereum/when-ethereum-transaction-can-fail.md"
         },
         "de": {
@@ -2754,7 +2753,7 @@
           "markdown": "faq/en/ethereum/what-are-erc20-tokens.md"
         },
         "ru": {
-          "title": "Что такое токены ERC20?",
+          "title": "What are ERC20 tokens?",
           "markdown": "faq/en/ethereum/what-are-erc20-tokens.md"
         },
         "de": {
@@ -2788,7 +2787,7 @@
           "markdown": "faq/en/ethereum/why-ethereum-and-erc20-token-address-stays-always-same.md"
         },
         "ru": {
-          "title": "Почему адрес токена Ethereum и ERC20 всегда остается неизменным?",
+          "title": "Why Ethereum and ERC20 addresses are same?",
           "markdown": "faq/ru/ethereum/why-ethereum-and-erc20-token-address-stays-always-same.md"
         },
         "de": {
@@ -2822,7 +2821,7 @@
           "markdown": "faq/en/ethereum/how-to-add-erc20-token.md"
         },
         "ru": {
-          "title": "Как добавить токен ERC20 на баланс?",
+          "title": "How to add ERC20 token to balance?",
           "markdown": "faq/en/ethereum/how-to-add-erc20-token.md"
         },
         "de": {
@@ -2856,7 +2855,7 @@
           "markdown": "faq/en/ethereum/is-it-safe-to-share-ethereum-receive-address-with-other.md"
         },
         "ru": {
-          "title": "Безопасно ли делиться адресом получения Ethereum с другими?",
+          "title": "Is it safe to share Ethereum address?",
           "markdown": "faq/ru/ethereum/is-it-safe-to-share-ethereum-receive-address-with-other.md"
         },
         "de": {
@@ -2904,7 +2903,7 @@
           "markdown": "faq/en/binance/what-is-binance-smart-chain.md"
         },
         "ru": {
-          "title": "Что такое Binance Smart Chain?",
+          "title": "What is Binance Smart Chain?",
           "markdown": "faq/ru/binance/what-is-binance-smart-chain.md"
         },
         "de": {
@@ -2938,7 +2937,7 @@
           "markdown": "faq/en/binance/what-are-bep20-tokens.md"
         },
         "ru": {
-          "title": "Что такое токены BEP20?",
+          "title": "What are BEP20 tokens?",
           "markdown": "faq/ru/binance/what-are-bep20-tokens.md"
         },
         "de": {
@@ -2972,7 +2971,7 @@
           "markdown": "faq/en/binance/what-are-bep2-tokens.md"
         },
         "ru": {
-          "title": "Что такое токены BEP2?",
+          "title": "What are BEP2 tokens?",
           "markdown": "faq/ru/binance/what-are-bep2-tokens.md"
         },
         "de": {
@@ -3006,7 +3005,7 @@
           "markdown": "faq/en/binance/how-to-add-bep20-bep2-token.md"
         },
         "ru": {
-          "title": "Как добавить токен BEP20 или BEP2 на баланс?",
+          "title": "How to add BEP20 or BEP2 token to balance?",
           "markdown": "faq/en/binance/how-to-add-bep20-bep2-token.md"
         },
         "de": {
@@ -3055,7 +3054,7 @@
           "markdown": "faq/en/privacy/does-royalex-collect-or-share-any-user-data.md"
         },
         "ru": {
-          "title": "Собирает ли ROYALEX какие-либо данные о пользователях или передает их?",
+          "title": "Does ROYALEX collect user data?",
           "markdown": "faq/ru/privacy/does-royalex-collect-or-share-any-user-data.md"
         },
         "de": {
@@ -3089,7 +3088,7 @@
           "markdown": "faq/en/privacy/are-users-anonymous-when-transacting-on-royalex.md"
         },
         "ru": {
-          "title": "Сохраняется ли анонимность пользователей при совершении сделок на ROYALEX?",
+          "title": "Are ROYALEX users anonymous?",
           "markdown": "faq/ru/privacy/are-users-anonymous-when-transacting-on-royalex.md"
         },
         "de": {
@@ -3123,7 +3122,7 @@
           "markdown": "faq/en/privacy/are-my-ethereum-transactions-and-balances-private.md"
         },
         "ru": {
-          "title": "Являются ли мои транзакции и баланс в Ethereum конфиденциальными?",
+          "title": "Are Ethereum transactions private?",
           "markdown": "faq/ru/privacy/are-my-ethereum-transactions-and-balances-private.md"
         },
         "de": {
@@ -3157,7 +3156,7 @@
           "markdown": "faq/en/privacy/are-my-bitcoin-transactions-and-balances-private.md"
         },
         "ru": {
-          "title": "Являются ли мои транзакции и баланс Bitcoin конфиденциальными?",
+          "title": "Are Bitcoin transactions private?",
           "markdown": "faq/ru/privacy/are-my-bitcoin-transactions-and-balances-private.md"
         },
         "de": {
@@ -3191,7 +3190,7 @@
           "markdown": "faq/en/privacy/how-using-tor-and-vpn-enhances-privacy.md"
         },
         "ru": {
-          "title": "Как использование TOR и VPN повышает уровень конфиденциальности",
+          "title": "How TOR and VPN enhances privacy?",
           "markdown": "faq/ru/privacy/how-using-tor-and-vpn-enhances-privacy.md"
         },
         "de": {
@@ -3225,7 +3224,7 @@
           "markdown": "faq/en/privacy/is-it-safe-to-share-data-with-exchanges-and-other-service-providers.md"
         },
         "ru": {
-          "title": "Безопасно ли делиться данными с биржами и другими поставщиками услуг?",
+          "title": "Is it safe to share data with exchanges?",
           "markdown": "faq/ru/privacy/is-it-safe-to-share-data-with-exchanges-and-other-service-providers.md"
         },
         "de": {
@@ -3259,7 +3258,7 @@
           "markdown": "faq/en/privacy/how-to-buy-cryptocurrency-anonymously.md"
         },
         "ru": {
-          "title": "Как купить криптовалюту анонимно?",
+          "title": "How to buy cryptocurrency anonymously?",
           "markdown": "faq/ru/privacy/how-to-buy-cryptocurrency-anonymously.md"
         },
         "de": {
@@ -3307,7 +3306,7 @@
           "markdown": "faq/en/dexes-swaps/what-are-cryptocurrency-swaps.md"
         },
         "ru": {
-          "title": "Что представляют собой обмены криптовалют?",
+          "title": "What are cryptocurrency swaps?",
           "markdown": "faq/ru/dexes-swaps/what-are-cryptocurrency-swaps.md"
         },
         "de": {
@@ -3341,7 +3340,7 @@
           "markdown": "faq/en/dexes-swaps/why-royalex-supports-only-dexes.md"
         },
         "ru": {
-          "title": "Почему ROYALEX поддерживает только DEX?",
+          "title": "Why ROYALEX only supports DEXes?",
           "markdown": "faq/ru/dexes-swaps/why-royalex-supports-only-dexes.md"
         },
         "de": {
@@ -3375,7 +3374,7 @@
           "markdown": "faq/en/dexes-swaps/which-dexes-supported-in-royalex.md"
         },
         "ru": {
-          "title": "Какие децентрализованные биржи поддерживаются в ROYALEX?",
+          "title": "Which DEXes ROYALEX supports?",
           "markdown": "faq/ru/dexes-swaps/which-dexes-supported-in-royalex.md"
         },
         "de": {
@@ -3409,7 +3408,7 @@
           "markdown": "faq/en/dexes-swaps/how-to-swap-cryptocurrency-in-royalex.md"
         },
         "ru": {
-          "title": "Как обменять криптовалюту в ROYALEX",
+          "title": "How to swap cryptocurrency?",
           "markdown": "faq/ru/dexes-swaps/how-to-swap-cryptocurrency-in-royalex.md"
         },
         "de": {
@@ -3443,7 +3442,7 @@
           "markdown": "faq/en/dexes-swaps/are-there-any-limitations-to-swap-amounts.md"
         },
         "ru": {
-          "title": "Существуют ли какие-либо ограничения по сумме сделки?",
+          "title": "Are there limits to swap amounts?",
           "markdown": "faq/ru/dexes-swaps/are-there-any-limitations-to-swap-amounts.md"
         },
         "de": {
@@ -3477,7 +3476,7 @@
           "markdown": "faq/en/dexes-swaps/are-there-any-risks-when-swapping-cryptocurrency.md"
         },
         "ru": {
-          "title": "Существуют ли риски при обмене криптовалюты?",
+          "title": "Are there any risks when swapping?",
           "markdown": "faq/ru/dexes-swaps/are-there-any-risks-when-swapping-cryptocurrency.md"
         },
         "de": {
@@ -3511,7 +3510,7 @@
           "markdown": "faq/en/dexes-swaps/why-a-separate-approve-transaction-needed-before-swap.md"
         },
         "ru": {
-          "title": "Почему перед сделкой по обмену необходимо выполнять отдельный процесс подтверждения?",
+          "title": "Why approve transaction is needed?",
           "markdown": "faq/ru/dexes-swaps/why-a-separate-approve-transaction-needed-before-swap.md"
         },
         "de": {
@@ -3545,7 +3544,7 @@
           "markdown": "faq/en/dexes-swaps/why-swap-fees-on-ethereum-are-so-high.md"
         },
         "ru": {
-          "title": "Почему комиссия за обмен на Ethereum такая высокая?",
+          "title": "Why swap fees are so high?",
           "markdown": "faq/ru/dexes-swaps/why-swap-fees-on-ethereum-are-so-high.md"
         },
         "de": {
@@ -3579,7 +3578,7 @@
           "markdown": "faq/en/dexes-swaps/why-was-i-changed-transaction-fee-for-a-failed-swap.md"
         },
         "ru": {
-          "title": "Почему с меня взяли плату за транзакцию за несостоявшуюся сделку по обмену?",
+          "title": "Why failed swaps consume fees?",
           "markdown": "faq/ru/dexes-swaps/why-was-i-changed-transaction-fee-for-a-failed-swap.md"
         },
         "de": {
@@ -3613,7 +3612,7 @@
           "markdown": "faq/en/dexes-swaps/why-can-not-i-swap-bitcoin-and-other-coins.md"
         },
         "ru": {
-          "title": "Почему я не могу обменять Bitcoin на другие монеты?",
+          "title": "Why not possible to swap Bitcoin?",
           "markdown": "faq/ru/dexes-swaps/why-can-not-i-swap-bitcoin-and-other-coins.md"
         },
         "de": {
@@ -3661,7 +3660,7 @@
           "markdown": "faq/en/defi/what-is-defi.md"
         },
         "ru": {
-          "title": "Что такое децентрализованное финансирование (DeFi)?",
+          "title": "What is Decentralized Finance?",
           "markdown": "faq/en/defi/what-is-defi.md"
         },
         "de": {
@@ -3695,7 +3694,7 @@
           "markdown": "faq/en/defi/popular-defi-services.md"
         },
         "ru": {
-          "title": "Какие услуги DeFi пользуются популярностью?",
+          "title": "What are popular DeFi services?",
           "markdown": "faq/en/defi/popular-defi-services.md"
         },
         "de": {
@@ -3729,7 +3728,7 @@
           "markdown": "faq/en/defi/how-to-use-defi.md"
         },
         "ru": {
-          "title": "Как воспользоваться DeFi с ROYALEX",
+          "title": "How to use DeFi with ROYALEX?",
           "markdown": "faq/en/defi/how-to-use-defi.md"
         },
         "de": {
@@ -3763,7 +3762,7 @@
           "markdown": "faq/en/defi/defi-transactions.md"
         },
         "ru": {
-          "title": "Как отслеживать транзакции, совершенные через WalletConnect",
+          "title": "How To Monitor WalletConnect transactions?",
           "markdown": "faq/en/defi/defi-transactions.md"
         },
         "de": {
@@ -3797,7 +3796,7 @@
           "markdown": "faq/en/defi/defi-risks.md"
         },
         "ru": {
-          "title": "С чем связаны возможные риски при использовании WalletConnect?",
+          "title": "What are risks when using WalletConnect?",
           "markdown": "faq/en/defi/defi-risks.md"
         },
         "de": {
